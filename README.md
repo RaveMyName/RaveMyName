@@ -5,7 +5,7 @@
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
-## 🧩 About
+## 🧩 About Me
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://tlgg.ru/Maksyi)
 - Делаю fullstack: от UI до API и инфраструктуры
 - Люблю чистую архитектуру, производительность и автоматизацию
@@ -15,28 +15,28 @@
 
 ## 🧰 Stack
 <details align="left">
- <summary>**Languages**</summary>
+ <summary><h3>Languages</h3></summary>
  <p>
    <img src="https://skillicons.dev/icons?i=typescript,javascript,python,php,java,c,cpp,cs,golang,kotlin,swift,dart&perline=8" />
  </p>
 </details>
 
 <details align="left">
- <summary>**Frameworks**</summary>
+ <summary><h3>Frameworks</h3></summary>
  <p>
    <img src="https://skillicons.dev/icons?i=react,bootstrap,laravel,symfony,django,flask&perline=8" />
  </p>
 </details>
 
 <details align="left">
- <summary>**Databases**</summary>
+ <summary><h3>Databases</h3></summary>
  <p>
    <img src="https://skillicons.dev/icons?i=mysql,postgresql&perline=8" />
  </p>
 </details>
 
 <details align="left">
- <summary>**Tools / DevOps**</summary>
+ <summary><h3>Tools / DevOps</h3></summary>
  <p>
    <img src="https://skillicons.dev/icons?i=docker,gitlab,githubactions,ansible&perline=8" />
  </p>
