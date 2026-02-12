@@ -12,31 +12,26 @@
 - Открыт к коллаборациям и интересным проектам
 
 ---
-
-## 🧰 Stack
 <details align="left">
- <summary><h3>Languages</h3></summary>
+ <summary>## 🧰 Stack</summary>
+ <h3>Languages</h3>
  <p>
    <img src="https://skillicons.dev/icons?i=typescript,javascript,python,php,java,c,cpp,cs,golang,kotlin,swift,dart&perline=8" />
- </p>
-</details>
-
-<details align="left">
- <summary><h3>Frameworks</h3></summary>
+  </p>
+ 
+ 
+ <h3>Frameworks</h3>
  <p>
    <img src="https://skillicons.dev/icons?i=react,bootstrap,laravel,symfony,django,flask&perline=8" />
  </p>
-</details>
-
-<details align="left">
- <summary><h3>Databases</h3></summary>
+ 
+ 
+ <h3>Databases</h3>
  <p>
    <img src="https://skillicons.dev/icons?i=mysql,postgresql&perline=8" />
  </p>
-</details>
-
-<details align="left">
- <summary><h3>Tools / DevOps</h3></summary>
+ 
+ <h3>Tools / DevOps</h3>
  <p>
    <img src="https://skillicons.dev/icons?i=docker,gitlab,githubactions,ansible&perline=8" />
  </p>
