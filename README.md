@@ -15,7 +15,7 @@
 
 ## 🧰 Stack
 
-**Languages**
+<summary>**Languages**</summary>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=typescript,javascript,python,php,java,c,cpp,cs,golang,kotlin,swift,dart&perline=8" />
 </p>
