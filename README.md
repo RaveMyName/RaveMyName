@@ -14,48 +14,30 @@
 ---
 
 ## 🧰 Stack
+<details align="left">
+ <summary>**Languages**</summary>
+ <p>
+   <img src="https://skillicons.dev/icons?i=typescript,javascript,python,php,java,c,cpp,cs,golang,kotlin,swift,dart&perline=8" />
+ </p>
+</details>
 
-<summary>**Languages**</summary>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=typescript,javascript,python,php,java,c,cpp,cs,golang,kotlin,swift,dart&perline=8" />
-</p>
+<details align="left">
+ <summary>**Frameworks**</summary>
+ <p>
+   <img src="https://skillicons.dev/icons?i=react,bootstrap,laravel,symfony,django,flask&perline=8" />
+ </p>
+</details>
 
-**Frameworks**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,bootstrap,laravel,symfony,django,flask&perline=8" />
-</p>
+<details align="left">
+ <summary>**Databases**</summary>
+ <p>
+   <img src="https://skillicons.dev/icons?i=mysql,postgresql&perline=8" />
+ </p>
+</details>
 
-**Databases**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql&perline=8" />
-</p>
-
-**Tools / DevOps**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,gitlab,githubactions,ansible&perline=8" />
-</p>
-
-<!-- Нейминг и список поддерживаемых иконок (например cs/cpp/postgresql/githubactions) :contentReference[oaicite:2]{index=2} -->
-
----
-
-## 🐍 Snake (contribution graph)
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RaveMyName/RaveMyName/output/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RaveMyName/RaveMyName/output/snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/RaveMyName/RaveMyName/output/snake.svg" />
-  </picture>
-</p>
-
----
-
-## 📈 GitHub stats
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=RaveMyName&show_icons=true&rank_icon=github" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaveMyName&layout=compact" />
-</p>
-
-<p>
-  <img height="180" src="https://streak-stats.demolab.com?user=RaveMyName" />
-</p>
+<details align="left">
+ <summary>**Tools / DevOps**</summary>
+ <p>
+   <img src="https://skillicons.dev/icons?i=docker,gitlab,githubactions,ansible&perline=8" />
+ </p>
+</details>
