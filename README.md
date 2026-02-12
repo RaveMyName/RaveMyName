@@ -2,21 +2,11 @@
 <p align="center"><b>Fullstack Engineer</b></p>
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&center=true&vCenter=true&width=760&lines=Hi%2C+I%27m+Rave;Fullstack+Engineer;Building+clean+%26+scalable+web+products;TypeScript+%E2%80%A2+React+%E2%80%A2+Python"
-    alt="Typing SVG"
-  />
+ <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
-<!-- Typing SVG настраивается через параметр ?lines= (строки разделяются ;) :contentReference[oaicite:1]{index=1} -->
 
-<p align="center">
-  <a href="https://t.me/Maksyi">
-    <img src="https://img.shields.io/badge/Telegram-@Maksyi-2CA5E0?logo=telegram&logoColor=white" />
-  </a>
-  <a href="mailto:usavadik@gmail.com">
-    <img src="https://img.shields.io/badge/Email-usavadik%40gmail.com-555?logo=gmail&logoColor=white" />
-  </a>
-</p>
+## 🧩 About
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://tlgg.ru/Maksyi)
 
 ---
 
