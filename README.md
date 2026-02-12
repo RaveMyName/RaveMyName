@@ -13,7 +13,8 @@
 
 ---
 <details align="left">
- <summary>## 🧰 Stack</summary>
+ <summary><h2>🧰 Stack</h2></summary>
+ ---
  <h3>Languages</h3>
  <p>
    <img src="https://skillicons.dev/icons?i=typescript,javascript,python,php,java,c,cpp,cs,golang,kotlin,swift,dart&perline=8" />
